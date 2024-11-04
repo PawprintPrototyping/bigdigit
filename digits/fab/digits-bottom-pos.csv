@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","SOLDER","PinHeader_1x08_P2.54mm_Vertical",135.230000,-133.180000,-90.000000,bottom
+"J2","EDGE_CONNECT","PinHeader_2x04_P2.54mm_Horizontal",141.890000,-137.220000,-90.000000,bottom
+"REF**","logo_designed_at","logo_designed_at",146.290000,-34.750000,180.000000,bottom
