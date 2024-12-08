@@ -1,9 +1,7 @@
-### Footprint positions - created on 2024-11-05T19:40:35-0800 ###
+### Footprint positions - created on 2024-12-07T16:54:02-0800 ###
 ### Printed by KiCad version 8.0.6+dfsg-1
 ## Unit = mm, Angle = deg.
 ## Side : bottom
-# Ref     Val               Package                                 PosX       PosY       Rot  Side
-J1        SOLDER            PinHeader_1x08_P2.54mm_Vertical      23.2300    10.8200  -90.0000  bottom
-J2        EDGE_CONNECT      PinHeader_2x04_P2.54mm_Horizontal    29.8900     6.7800  -90.0000  bottom
-REF**     logo_designed_at  logo_designed_at                     34.2900   109.2500  180.0000  bottom
+# Ref     Val               Package                PosX       PosY       Rot  Side
+REF**     logo_designed_at  logo_designed_at    34.2900   109.2500  180.0000  bottom
 ## End
